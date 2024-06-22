@@ -19,6 +19,7 @@ The project utilized the following libraries:
 - Scikit-Learn: For implementing machine learning algorithms and model evaluation.
 - Matplotlib: For data visualization and plotting graphs.
 - Statsmodels: For statistical modeling and analysis.
+- pmdarima: For time series forecasting and model selection.
 
 These libraries were instrumental in data preprocessing, model training, and evaluation, ensuring the development of an accurate and efficient predictive model.
 
